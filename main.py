@@ -1,1 +1,1 @@
-print ('Czolem geodezja z watu'),
+print ('bwp1'),
