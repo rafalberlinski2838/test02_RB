@@ -1,1 +1,1 @@
-print ('Hello geoinformatyka z watu'),
+print ('Hello geodezja z watu'),
