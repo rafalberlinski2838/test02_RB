@@ -1,1 +1,1 @@
-print ('geodezja'),
+print ('Hello geodezja z watu'),
